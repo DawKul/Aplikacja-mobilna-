@@ -1,0 +1,27 @@
+
+Aplikacja Trener i Śledzenie Treningów
+
+
+1. Feedback głosowy i coaching (Mikrofon)
+   - Użytkownicy mogą używać komend głosowych do sterowania treningiem, np. "Rozpocznij trening" lub "Wstrzymaj trening". Aplikacja daje także wskazówki audio podczas ćwiczeń.
+
+2. Personalizacja treningów
+   - Użytkownicy mogą wybierać gotowe plany treningowe lub tworzyć własne. Aplikacja śledzi postępy i wyświetla raporty, np. o liczbie wykonanych powtórzeń i spalonych kaloriach.
+
+3. Komendy głosowe i asystent (Mikrofon)
+   - Możliwość sterowania treningiem za pomocą komend głosowych, np. "Następne ćwiczenie". Aplikacja może być zintegrowana z Asystentem Google lub Alexą.
+
+4. Śledzenie aktywności na świeżym powietrzu (GPS)
+   - Aplikacja wykorzystuje GPS do śledzenia biegów, spacerów czy jazdy na rowerze. Pokazuje dystans, trasę, prędkość oraz spalone kalorie.
+
+5. Gameifikacja i wyzwania
+   - Użytkownicy mogą brać udział w wyzwaniach, zdobywać nagrody i porównywać wyniki z innymi. Aplikacja motywuje do osiągania celów, np. „30-dniowe wyzwanie przysiadów”.
+6.Łączenie konta z kontem facebook 
+
+7.Accelerometr
+
+8.Genertor szablonu ćwiczeń
+
+Wdrożenie w Android Studio:
+1. Komendy głosowe: Zintegrowanie Google Speech Recognition API oraz Text-to-Speech (TTS), aby umożliwić sterowanie głosowe.
+2. Integracja czujników: GPS i innych czujniki do śledzenia aktywności fizycznej.
